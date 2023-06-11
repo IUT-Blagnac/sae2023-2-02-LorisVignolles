@@ -175,16 +175,17 @@ Vous utiliserez le dépôt initial qui vous aura été attribué via classroom p
 
 [options="header"]
 |=============================================================
-| #    | lien                                                 | langage  | catégorie  |  Type
+| #    | lien                                                 | langage  | catégorie  | Type
 | 1    | link:src/SimpliciteMeilleur.java[meilleur-java-SIM]  | Java     | Simplicité | Meilleur
 | 2    | link:src/simplicite-meilleur.c[meilleur-C-SIM]       | C        | Simplicité | Meilleur
-| 3    | link:src/SimplicitePire.java[pire-java-SIM]          | Java     | Simplicite | Pire
+| 3    | link:src/SimplicitePire.java[pire-java-SIM]          | Java     | Simplicité | Pire
 | 4    | link:src/EfficacitePire.java[pire-java-EFF]          | Java     | Efficacité | Pire
 | 5    | link:src/EfficacitePire2.java[pire2-java-EFF]        | Java     | Efficacité | Pire
 | 6    | link:src/EfficaciteMeilleur.java[meilleur-java-EFF]  | Java     | Efficacité | Meilleur
-| 7    | link:src/SobrieteMeilleur.java[meilleur-java-SOB]    | Java     | Sobriete   | Meilleur
-| 8    | link:src/SobrietePire.java[pire-java-SOB]            | Java     | Sobriete   | Pire
-|==========================================================|
+| 7    | link:src/SobrieteMeilleur.java[meilleur-java-SOB]    | Java     | Sobriété   | Meilleur
+| 8    | link:src/SobrietePire.java[pire-java-SOB]            | Java     | Sobriété   | Pire
+|=============================================================
+
 
 === Phase 2 (deadline : **vendredi 16 juin 2023** à minuit)
 
