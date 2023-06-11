@@ -174,17 +174,17 @@ Vous utiliserez le dépôt initial qui vous aura été attribué via classroom p
 * [ ] Votre ou vos algorithmes en précisant les éléments du tableau ci-dessous :
 
 [options="header"]
-|====================================================================================
-| #    | lien                                     | langage  | catégorie  |  Type
-| 1    | link:src/SimpliciteMeilleur.java[meilleur-java]         | Java     | Simplicité | Meilleur
-| 2    | link:src/simplicite-meilleur.c           | C        | Simplicité | Meilleur
-| 3    | link:src/SimplicitePire.java             | Java     | Simplicite | Pire
-| 4    | link:src/EfficacitePire.java             | Java     | Efficacité | Pire
-| 5    | link:src/EfficacitePire2.java            | Java     | Efficacité | Pire
-| 6    | link:src/EfficaciteMeilleur.java         | Java     | Efficacité | Meilleur
-| 7    | link:src/SobrieteMeilleur.java           | Java     | Sobriete   | Meilleur
-| 8    | link:src/SobrietePire.java               | Java     | Sobriete   | Pire
-|====================================================================================
+|============================================================================================
+| #    | lien                                             | langage  | catégorie  |  Type
+| 1    | link:src/SimpliciteMeilleur.java[meilleur-java]  | Java     | Simplicité | Meilleur
+| 2    | link:src/simplicite-meilleur.c[pire-C]           | C        | Simplicité | Meilleur
+| 3    | link:src/SimplicitePire.java[pire-java]          | Java     | Simplicite | Pire
+| 4    | link:src/EfficacitePire.java[pire-java]          | Java     | Efficacité | Pire
+| 5    | link:src/EfficacitePire2.java[pire-java]         | Java     | Efficacité | Pire
+| 6    | link:src/EfficaciteMeilleur.java[meilleur-java]  | Java     | Efficacité | Meilleur
+| 7    | link:src/SobrieteMeilleur.java[meilleur-java]    | Java     | Sobriete   | Meilleur
+| 8    | link:src/SobrietePire.java[pire-java]            | Java     | Sobriete   | Pire
+|============================================================================================
 
 === Phase 2 (deadline : **vendredi 16 juin 2023** à minuit)
 
