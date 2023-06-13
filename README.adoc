@@ -198,22 +198,27 @@ WARNING: Les répertoires et fichiers existants devront être complétés et mis
 
 === Pré-requis
 
-Voici les pré-requis pour exécuter nos codes d'évaluation.
-
-- Java v.x.y.z
-- ...
+Pour le temps d'éxecution et les temps, il faut que les nomenclatures des classes soit bonnes et dans un même projet. Ensuite, il n'y a plus qu'a lancer le programme sur la version souhaité (changer le code de la classe Exercice à chaque fois pour tester chaque classe)
 
 === Reproductibilité
 
-- Pour reproduire nos analyses :
-. Installez X
-. Lancez Y
-. ...
+Codacy : 
+-Mettre les sources sur un rep github
+-Lier Codacy à github
+-Lancer l'analyse
+
+Joular : 
+-Cloner le depot github de joular
+-Se deplacer dans le dossier joularjx
+-Clean install avec Maven par exemple
+
+Puis faire la commande : java -javaagent:joularjx.jar -jar yourProgram.jar ou java -javaagent:joularjx.jar  yourProgram.java
+
 
 === Références
 
-- link:http://xyz[Mon super outil XYZ]
-- ...
+- Codacy
+- Joular
 
 == Généralités, notation de la SAÉ et résultat du concours
 
